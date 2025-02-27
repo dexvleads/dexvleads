@@ -3,6 +3,9 @@ I'm a reverse engineer from Sweden with 4-5 years of experience. I enjoy figurin
 - Reversed **hCaptcha** and **Funcaptcha**.
 - Skilled in **Python**, **JavaScript**, **WASM**, and some **Go**.
 
+```bash
+pip install dexvstuff
+```
 ## Contact
 
 Interested in working together? Reach out on [Telegram](https://t.me/dexv0) and or visit my website at [dexv.lol](https://dexv.lol).
