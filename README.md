@@ -1,7 +1,6 @@
-I'm a reverse engineer from Sweden with 4-5 years of experience. I enjoy figuring out how things work and breaking down complex systems. Here's what I do:
+I'm a reverse engineer from Sweden with 4-5 years of experience. I enjoy figuring out how things work and breaking down complex systems.
 
-- Reversed **hCaptcha** and **Funcaptcha**.
-- Skilled in **Python**, **JavaScript**, **WASM**, and some **Go**.
+- Skilled in **Python**, **JavaScript**, **WASM**, and some **Go**. (Doing some stuff with **Rustlang**)
 
 ```bash
 pip install dexvstuff
